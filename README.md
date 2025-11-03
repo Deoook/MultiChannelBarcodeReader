@@ -52,4 +52,4 @@ BarcodeReader/
 ---
 
 ## 🖼️ 프로그램 UI
-![프로그램 UI](image/BarcodeReader_UI.png)
+![프로그램 UI](MultiChannelBarcodeReaderUI.png)
